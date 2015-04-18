@@ -1,0 +1,21 @@
+/*====================================================================*/
+/* A BrassBot creation */
+/* IE styles */
+/*====================================================================*/
+
+/* Clearfixes */
+.clearfix,
+.wrap,
+.columns,
+ol#slides div.text,
+ul.product-funnels {display: block; zoom: 1;}
+
+/* General */
+
+.wrap,
+.columns {width: 960px;}
+.column.two {width: 46%;}
+h1#logo a:before {background-image: url(../graphics/logos/emblem-ie2.png);}
+body.home h1#logo a:before {background-image: url(../graphics/logos/emblem-ie.png);}
+ul.product-funnels a span {background: #111;}
+a.carousel-button {display: none;}
