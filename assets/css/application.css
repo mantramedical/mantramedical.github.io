@@ -214,16 +214,16 @@ div.product-image {
   box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.2); }
 
 div.product-image.bcc {
-  background-image: url(../graphics/products/bcc.jpg); }
+  background-image: url(../img/products/bcc.jpg); }
 
 div.product-image.poc {
-  background-image: url(../graphics/products/poc.jpg); }
+  background-image: url(../img/products/poc.jpg); }
 
 div.product-image.sdc {
-  background-image: url(../graphics/products/sdc.jpg); }
+  background-image: url(../img/products/sdc.jpg); }
 
 div.product-image.wcd {
-  background-image: url(../graphics/products/wcd.jpg); }
+  background-image: url(../img/products/wcd.jpg); }
 
 /* Transitions */
 a,
@@ -337,7 +337,7 @@ h1#logo a:before {
   margin: -2.3em 1em 0 0;
   width: 5em;
   height: 4.6em;
-  background: url(../graphics/logos/emblem-blue.png) no-repeat 50% 50%;
+  background: url(../img/logos/emblem-blue.png) no-repeat 50% 50%;
   background-size: 100% auto;
   content: ""; }
 
@@ -423,7 +423,7 @@ footer[role="contentinfo"] {
       margin-left: -4.2em;
       width: 8.4em;
       height: 7em;
-      background: url(../graphics/logos/emblem-grey.png) no-repeat 50% 0;
+      background: url(../img/logos/emblem-grey.png) no-repeat 50% 0;
       background-size: 100% auto;
       font-size: 0.8em;
       content: ""; }
@@ -459,16 +459,16 @@ ol#slides li {
   background-size: auto 100%; }
 
 ol#slides li.bcc {
-  background-image: url(../graphics/products/bcc.jpg); }
+  background-image: url(../img/products/bcc.jpg); }
 
 ol#slides li.poc {
-  background-image: url(../graphics/products/poc.jpg); }
+  background-image: url(../img/products/poc.jpg); }
 
 ol#slides li.sdc {
-  background-image: url(../graphics/products/sdc.jpg); }
+  background-image: url(../img/products/sdc.jpg); }
 
 ol#slides li.wcd {
-  background-image: url(../graphics/products/wcd.jpg); }
+  background-image: url(../img/products/wcd.jpg); }
 
 /* Text */
 ol#slides div.text {
@@ -501,11 +501,11 @@ a.carousel-button {
   -webkit-text-size-adjust: none; }
   a.carousel-button.next {
     right: 2%;
-    background-image: url(../graphics/icons/carousel-next.png);
+    background-image: url(../img/icons/carousel-next.png);
     background-position: 55% 50%; }
   a.carousel-button.previous {
     left: 2%;
-    background-image: url(../graphics/icons/carousel-previous.png);
+    background-image: url(../img/icons/carousel-previous.png);
     background-position: 45% 50%; }
   a.carousel-button:hover, a.carousel-button:focus {
     background-color: rgba(0, 0, 0, 0.2); }
@@ -586,16 +586,16 @@ ul.product-funnels {
         height: 8em; }
 
 ul.product-funnels li.bcc a {
-  background-image: url(../graphics/products/bcc.jpg); }
+  background-image: url(../img/products/bcc.jpg); }
 
 ul.product-funnels li.sdc a {
-  background-image: url(../graphics/products/sdc.jpg); }
+  background-image: url(../img/products/sdc.jpg); }
 
 ul.product-funnels li.poc a {
-  background-image: url(../graphics/products/poc.jpg); }
+  background-image: url(../img/products/poc.jpg); }
 
 ul.product-funnels li.wcd a {
-  background-image: url(../graphics/products/wcd.jpg); }
+  background-image: url(../img/products/wcd.jpg); }
 
 ul.product-funnels a:hover,
 ul.product-funnels a:focus {
@@ -619,7 +619,7 @@ ul.files {
   font-size: 1.2em; }
   ul.files li {
     padding: 0.2em 0 0.2em 23px;
-    background: url(../graphics/icons/pdf.gif) no-repeat 0 50%;
+    background: url(../img/icons/pdf.gif) no-repeat 0 50%;
     list-style: none; }
     ul.files li a {
       font-style: italic; }
@@ -843,7 +843,7 @@ table {
     margin-top: -1.2em;
     width: 2.9em;
     height: 2.4em;
-    background-image: url(../graphics/logos/emblem-white.png); }
+    background-image: url(../img/logos/emblem-white.png); }
 
   #carousel div.wrap {
     padding: 0; }
