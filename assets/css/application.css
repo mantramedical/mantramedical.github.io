@@ -423,9 +423,10 @@ footer[role="contentinfo"] {
       margin-left: -4.2em;
       width: 8.4em;
       height: 7em;
-      background: url(../img/logos/emblem-grey.png) no-repeat 50% 0;
+      background: url(../img/logos/emblem-white.png) no-repeat 50% 0;
       background-size: 100% auto;
       font-size: 0.8em;
+      opacity: 0.3;
       content: ""; }
 
 /* ------------------------------- */
@@ -1026,3 +1027,4 @@ table {
     width: auto;
     background-image: none;
     text-indent: 0; } }
+/*# sourceMappingURL=application.css.map */
