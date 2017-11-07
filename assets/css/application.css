@@ -568,8 +568,6 @@ ul.product-funnels {
     width: 46%;
     list-style: none;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); }
-    div.wrap ul.product-funnels ul.product-funnels li {
-      width: 21%; }
     ul.product-funnels li a {
       overflow: hidden;
       display: block;
@@ -781,10 +779,6 @@ table {
   div.product-title h1 {
     font-size: 2em; }
 
-  div.wrap ul.product-funnels li {
-    float: left;
-    width: 46%; }
-
   div.wrap ul.product-funnels a {
     background-size: 100% auto; } }
 /* Tweaks */
@@ -907,7 +901,7 @@ table {
 
   ul.product-funnels li {
     float: none;
-    width: 21%; }
+    width: auto; }
 
   ul.product-funnels a {
     height: 4em;
