@@ -48,7 +48,7 @@ a {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font: italic 400 1em/1.1 Lato, "Lucida Grande", GeezaPro, Tahoma, Arial, Sans-Serif;
+  font: italic 400 1em/1.1 "Open Sans", "Lucida Grande", GeezaPro, Tahoma, Arial, Sans-Serif;
   color: #125579; }
   .formatting h1, .formatting h2, .formatting h3, .formatting h4, .formatting h5, .formatting h6 {
     margin: 0 0 0.5em; }
@@ -249,7 +249,7 @@ div.partners a img {
 body {
   background: #354047;
   text-align: left;
-  font: 100%/1.4 Lato, "Lucida Grande", GeezaPro, Tahoma, Arial, Sans-Serif;
+  font: 112.5%/1.4 "Open Sans", "Lucida Grande", GeezaPro, Tahoma, Arial, Sans-Serif;
   line-height: 1.4;
   color: #354047; }
 
@@ -950,7 +950,7 @@ table {
     display: block;
     position: absolute;
     top: 0;
-    right: 1em;
+    right: 0;
     bottom: 0;
     font-style: normal;
     text-transform: uppercase; }
