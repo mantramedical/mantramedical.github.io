@@ -489,6 +489,7 @@ div.strip {
     div.strip {
       padding: 3.125rem 0; } }
   div.strip.alt {
+    background-color: #1790CC;
     background-image: linear-gradient(to bottom, #1790CC 0%, #0D5579 100%);
     color: white; }
   div.strip.contact {
