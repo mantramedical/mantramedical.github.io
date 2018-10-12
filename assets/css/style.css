@@ -193,7 +193,7 @@ html {
 body {
   background: #222222;
   text-align: left;
-  font-family: "Open Sans", "Arial", "Helvetica Neue", Sans-Serif;
+  font-family: "Source Sans Pro", "Open Sans", "Trebuchet MS", "Lucida Grande", Verdana, Geneva, Arial, Sans-Serif;
   line-height: 1.45;
   color: #333333; }
 
@@ -252,8 +252,7 @@ strong, b {
   font-weight: 600; }
 
 dl dt {
-  margin-top: 0.75rem;
-  font-family: "Roboto Slab", "Open Sans", "Candara", "Helvetica Neue", "Arial", Sans-Serif; }
+  margin-top: 0.75rem; }
   dl dt:first-child {
     margin-top: 0; }
 
@@ -272,7 +271,7 @@ a {
   padding: 0.6em 1em;
   background: #0071A9;
   text-align: center;
-  font-family: "Open Sans", "Arial", "Helvetica Neue", Sans-Serif;
+  font-family: "Source Sans Pro", "Open Sans", "Trebuchet MS", "Lucida Grande", Verdana, Geneva, Arial, Sans-Serif;
   font-weight: 600;
   line-height: inherit;
   color: white;
@@ -304,7 +303,7 @@ a {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.2;
-  font-family: "Open Sans", "Arial", "Helvetica Neue", Sans-Serif; }
+  font-family: "Source Sans Pro", "Open Sans", "Trebuchet MS", "Lucida Grande", Verdana, Geneva, Arial, Sans-Serif; }
   h1[class*="icon-"]:before, h2[class*="icon-"]:before, h3[class*="icon-"]:before, h4[class*="icon-"]:before, h5[class*="icon-"]:before, h6[class*="icon-"]:before {
     margin-right: 0.4em;
     font-size: 0.8em; }
