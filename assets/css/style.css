@@ -467,7 +467,10 @@ ul.products li {
     ul.products li {
       margin-bottom: 0; } }
   ul.products li h2 {
+    margin-bottom: 0;
     font-size: 1.25rem; }
+  ul.products li p.patent {
+    font-size: 0.8rem; }
   ul.products li span {
     display: block;
     border-radius: 1rem;
@@ -499,10 +502,15 @@ div.strip {
     div.strip h2 span {
       display: block;
       font-size: 0.8rem;
+      font-weight: normal;
       text-transform: uppercase; }
       @media (min-width: 769px) {
         div.strip h2 span {
           font-size: 1rem; } }
+      div.strip h2 span.patent {
+        margin-top: 0.25rem;
+        font-size: 0.8rem;
+        text-transform: none; }
   div.strip.problem h2 span {
     color: #A90000; }
 
