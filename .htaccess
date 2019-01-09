@@ -1,0 +1,13 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^example.com [NC]
+RewriteRule ^(.*)$ https://www.mantramedical.co.uk/$1 [L,R=301,NC]
+
+Redirect 301 /about.html https://www.mantramedical.co.uk/
+Redirect 301 /the-problem.html https://www.mantramedical.co.uk/
+Redirect 301 /products/blood-pressure-cuff-cleaner.html https://www.mantramedical.co.uk/
+Redirect 301 /products/other-concepts.html https://www.mantramedical.co.uk/
+Redirect 301 /products/products.html https://www.mantramedical.co.uk/
+Redirect 301 /products/pulse-oximeter-cleaner.html https://www.mantramedical.co.uk/
+Redirect 301 /products/stethoscope-diaphragm-cleaner.html https://www.mantramedical.co.uk/
+Redirect 301 /products/wound-closure-device.html https://www.mantramedical.co.uk/
