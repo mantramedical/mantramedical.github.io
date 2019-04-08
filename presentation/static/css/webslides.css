@@ -3789,3 +3789,11 @@ Slides Index
 
 .text-slide-number {
   color: #abc; }
+
+/*============================
+RJ edits
+============================== */
+
+body {background: white;}
+section.brand {background-color: #04A0EC;}
+article.mm section span.background {background-size: 80% auto!important;}
