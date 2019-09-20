@@ -1,1 +1,0 @@
-# mantramedical.github.io
